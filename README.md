@@ -8,7 +8,7 @@
 * [Status](#status)
 
 ## General info
-This was supposed to be a remake of the Othello game (which is the newer version of the Reversi ), using the base technologies such as Css, Html and Js.
+This was supposed to be a remake of the Othello board game (which is the newer version of the Reversi ), using the base technologies such as Css, Html and Js.
 But after a 2 months break from it, when I came back, I just didn't have the stamina to go through it again and complete it.So this is just the barebone version of the game logic.
 
 ## Technologies
