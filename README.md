@@ -27,4 +27,4 @@ Project is:  _finished
 
 ## Live Demo
 
-https://fake-store-live.herokuapp.com/
+https://naughty-sammet-ecbf05.netlify.app/
