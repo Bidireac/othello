@@ -1,5 +1,5 @@
 # Othello
-> A partial remake of the othello board game.
+> A partial remake of the Othello board game.
 
 ## Table of Contents
 * [General info](#general-info)
