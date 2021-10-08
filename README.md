@@ -23,7 +23,7 @@ To run this project, open the index.html file.
 ![demo](/demo/othello.gif)
 
 ## Status
-Project is:  _finished
+Project is:  _abandoned
 
 ## Live Demo
 
